@@ -2,9 +2,6 @@
 
 Individual contributor with expertise in cross-platform automation development, system configuration, and execution end-to-end using Agile Scrum. Possess 8+ years of solid experience in Software Quality Assurance and Test Automation.
 
-Current Experience:
-
-Individual contributor with expertise in cross-platform automation development, system configuration, and execution end-to-end using Agile Scrum. Possess 8+ years of solid experience in Software Quality Assurance and Test Automation.
 
 **Project 1: Cisco AnyConnect Application (VPN) Automation**
 
@@ -26,8 +23,7 @@ Developed test cases for SWG module features, including content filter automatio
 **Project 3: Captive Portal Wireless Automation**
 
 Role: Automation developer
-Achievements:
-Developed and executed automation for captive portal wireless testing.
+Achievements:Developed and executed automation for captive portal wireless testing.
 
 
 **Previous Experience:**
