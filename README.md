@@ -1,8 +1,12 @@
-#Current Experience:
+**Current Experience:**
 
 Individual contributor with expertise in cross-platform automation development, system configuration, and execution end-to-end using Agile Scrum. Possess 8+ years of solid experience in Software Quality Assurance and Test Automation.
 
-Project 1: Cisco AnyConnect Application (VPN) Automation
+Current Experience:
+
+Individual contributor with expertise in cross-platform automation development, system configuration, and execution end-to-end using Agile Scrum. Possess 8+ years of solid experience in Software Quality Assurance and Test Automation.
+
+**Project 1: Cisco AnyConnect Application (VPN) Automation**
 Role: Python automation developer
 Achievements:
 Developed an automation suite for the deployment of AnyConnect modules from scratch across different platforms.
@@ -11,19 +15,21 @@ Set up various types of clients using VMware vSphere (Windows, Ubuntu, RHEL, SUS
 Tested automation on Mac (Mac Mini) in a lab environment, setting up different types of adapters.
 Authored a library to parse logs from different clients (Windows, Mac, Linux).
 Completed the “revert to latest snapshot” automation project, optimizing team automation processes.
-Project 2: Cisco Umbrella (SWG Module) and Cisco AnyConnect Feature Automation
+
+**Project 2: Cisco Umbrella (SWG Module) and Cisco AnyConnect Feature Automation**
 Role: Test automation developer
 Achievements:
 Developed test cases for SWG module features, including content filter automation.
-Project 3: Captive Portal Wireless Automation
+
+**Project 3: Captive Portal Wireless Automation**
 Role: Automation developer
 Achievements:
 Developed and executed automation for captive portal wireless testing.
 
 
-#Previous Experience:
+**Previous Experience:**
 
-Test Automation:
+**Test Automation:**
 Proficient in UI and API test automation using Python and Selenium WebDriver.
 Strong understanding of web services calls (REST APIs) and JSON formats.
 Technical Skills:
@@ -41,5 +47,3 @@ Experienced with the Pytest framework.
 Cloud Platforms:
 
 Basic exposure to AWS, including S3 and EC2.
-Adaptability:
-
